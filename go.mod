@@ -1,0 +1,1 @@
+module "learn-go-go-kit-stringsvc"
